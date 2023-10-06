@@ -1,0 +1,54 @@
+[
+  {
+    "name": "USDexchRate",
+    "value": "36.5686"
+  },
+  {
+    "name": "protNum",
+    "value": ""
+  },
+  {
+    "name": "sumLimUSD",
+    "value": "2734.61"
+  },
+  {
+    "name": "bgValues",
+    "value": null
+  },
+  {
+    "name": "protDate",
+    "value": "07.09.2023"
+  },
+  {
+    "name": "EURexchRate",
+    "value": "36.3821"
+  },
+  {
+    "name": "idLevel",
+    "value": "108"
+  },
+  {
+    "name": "sumLimUAN",
+    "value": "100001.0"
+  },
+  {
+    "name": "edrpoucode",
+    "value": "31327803"
+  },
+  {
+    "name": "initiatorFullName",
+    "value": "Менеджер клієнта 3"
+  },
+  {
+    "name": "responcible",
+    "value": null
+  },
+  {
+    "name": "allSumLimEquEUR",
+    "value": "2748.6318821618324"
+  },
+  {
+    "name": "sumLimEUR",
+    "value": "2748.63"
+  }
+]
